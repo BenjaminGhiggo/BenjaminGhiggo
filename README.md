@@ -1,10 +1,12 @@
+Sure, here's the information translated into English:
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Benjamin </h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Benjamin </h1></summary>
   </ul>
 </div>
 
@@ -17,16 +19,16 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Para levantarse primero hay que caerse xd</h2></summary>
+    <summary><h2 style="display: inline-block">To get up, you first have to fall xd</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🌱 Actualmente estoy aprendiendo **Node, Machine Learning y PLC**
-- ☁️ Tengo un gran interés en el Reinforcement Learning.
-- 📝 Actualmente soy estudiante de Ing. Electrónica en la UNI-Perú
-- 📫 Puedes contactarme por el siguiente gmail **victor.ghiggo.d@gmail.com**
-- 🏠 No dudes en saludarme en Discord – BenjaminGhiggo  ¡ese es mi nombre de usuario!
+- 🌱 I'm currently learning **Node, Machine Learning, and PLC**
+- ☁️ I have a great interest in Reinforcement Learning.
+- 📝 I'm currently an Electronic Engineering student at UNI-Peru
+- 📫 You can contact me at the following gmail **victor.ghiggo.d@gmail.com**
+- 🏠 Don't hesitate to say hello on Discord – BenjaminGhiggo is my username!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -66,7 +68,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -81,7 +83,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
   </ul>
 </div>
 
@@ -105,6 +107,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Crédito: BenjaminGhiggo
+Credit: BenjaminGhiggo
 
-Última edición: 29/4/2023
+Last edited: 29/4/2023
