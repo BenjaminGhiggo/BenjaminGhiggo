@@ -10,13 +10,6 @@ Sure, here's the information translated into English:
   </ul>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">To get up, you first have to fall xd</h2></summary>
-  </ul>
-</div>
-
 <!--Intro start-->
 - 🌱 I'm currently learning **Node, Machine Learning, and PLC**
 - ☁️ I have a great interest in Reinforcement Learning.
